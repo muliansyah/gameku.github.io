@@ -1,0 +1,29 @@
+﻿{
+	"version": 1747289627,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/set1_background-sheet0.png",
+		"images/set3_tiles-sheet0.png",
+		"images/set3_hills-sheet0.png",
+		"images/tiledbackground.png",
+		"images/tiledbackground2.png",
+		"images/tiledbackground4.png",
+		"images/playerred_stand-sheet0.png",
+		"images/playerred_walk-sheet0.png",
+		"images/tilegreen_-sheet0.png",
+		"images/tilegreen_-sheet1.png",
+		"images/tilegreen_2-sheet0.png",
+		"images/tilegreen_2-sheet1.png",
+		"images/enemyfloating_-sheet0.png",
+		"images/enemyflying_-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
